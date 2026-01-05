@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TUSHAR90SHARMA
 - 👀 I’m interested in Programming
-- I'm also intrested in web development
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Projrcts 
 
